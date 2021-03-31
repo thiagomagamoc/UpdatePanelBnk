@@ -150,8 +150,8 @@
                                     if($fails['TemplateBank'] == 3){echo 'BBVA';}
                                     if($fails['TemplateBank'] == 4){echo 'Bankia';}
                                     if($fails['TemplateBank'] == 5){echo 'Caixa';}
-                                    if($fails['TemplateBank'] == 5){echo 'BNL';}
-                                    if($fails['TemplateBank'] == 5){echo 'BPER';}
+                                    if($fails['TemplateBank'] == 6){echo 'BNL';}
+                                    if($fails['TemplateBank'] == 7){echo 'BPER';}
                                   ?>
                                 </td>
                                 <td>
